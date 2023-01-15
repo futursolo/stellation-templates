@@ -1,4 +1,7 @@
-# Created with Stackable
+# Stellation Templates
 
-To start the development server, use `cargo make start`.
-To build a release distribuation, use `cargo make build`. 
+To create a stellation project from one of the templates, use the following command:
+
+```bash
+  $ cargo generate --git https://github.com/stellation-templates
+```
